@@ -16,3 +16,7 @@
 # CLI:
 
 - **Access to container using this command:** `kubectl exec -it <nginx-pod-name> -- /bin/sh`
+
+# TODOs:
+- [ ]: Create new Nodes for Test ReadWriteOnce access
+- [ ]: Add image Evidence to ReadWriteOnce mode
