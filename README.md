@@ -3,10 +3,15 @@
 ## ReadWriteOnce
 
 ## ReadOnlyMany
+![rox](./imgs/rox.jpg)
 
 ## ReadWriteMany
 
 ## ReadWriteOncePod
+- **Before**
+  ![rwop-before](./imgs/rwop-before.jpg)
+- **After**
+  ![rwop-after](./imgs/rwop-after.jpg)
 
 # CLI:
 
