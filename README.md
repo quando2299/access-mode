@@ -16,6 +16,9 @@
 # CLI:
 
 - **Access to container using this command:** `kubectl exec -it <nginx-pod-name> -- /bin/sh`
+- **Delete all PVs and PVCs:** 
+  - `kubectl delete pvc --all --all-namespaces`
+  - `kubectl delete pv --all`
 
 # TODOs:
 - [ ]: Create new Nodes for Test ReadWriteOnce access
